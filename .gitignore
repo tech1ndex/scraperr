@@ -1,3 +1,6 @@
 .pyc
 .lock
 .env
+src/scraperr/*/*.pyc
+src/scraperr/*/__pycache__/*.pyc
+
